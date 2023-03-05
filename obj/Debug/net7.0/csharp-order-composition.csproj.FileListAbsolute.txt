@@ -1,0 +1,15 @@
+/home/matheus/Projetos/csharp-order-composition/bin/Debug/net7.0/csharp-order-composition
+/home/matheus/Projetos/csharp-order-composition/bin/Debug/net7.0/csharp-order-composition.deps.json
+/home/matheus/Projetos/csharp-order-composition/bin/Debug/net7.0/csharp-order-composition.runtimeconfig.json
+/home/matheus/Projetos/csharp-order-composition/bin/Debug/net7.0/csharp-order-composition.dll
+/home/matheus/Projetos/csharp-order-composition/bin/Debug/net7.0/csharp-order-composition.pdb
+/home/matheus/Projetos/csharp-order-composition/obj/Debug/net7.0/csharp-order-composition.csproj.AssemblyReference.cache
+/home/matheus/Projetos/csharp-order-composition/obj/Debug/net7.0/csharp-order-composition.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/Projetos/csharp-order-composition/obj/Debug/net7.0/csharp-order-composition.AssemblyInfoInputs.cache
+/home/matheus/Projetos/csharp-order-composition/obj/Debug/net7.0/csharp-order-composition.AssemblyInfo.cs
+/home/matheus/Projetos/csharp-order-composition/obj/Debug/net7.0/csharp-order-composition.csproj.CoreCompileInputs.cache
+/home/matheus/Projetos/csharp-order-composition/obj/Debug/net7.0/csharp-order-composition.dll
+/home/matheus/Projetos/csharp-order-composition/obj/Debug/net7.0/refint/csharp-order-composition.dll
+/home/matheus/Projetos/csharp-order-composition/obj/Debug/net7.0/csharp-order-composition.pdb
+/home/matheus/Projetos/csharp-order-composition/obj/Debug/net7.0/csharp-order-composition.genruntimeconfig.cache
+/home/matheus/Projetos/csharp-order-composition/obj/Debug/net7.0/ref/csharp-order-composition.dll
